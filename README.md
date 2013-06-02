@@ -7,7 +7,7 @@ This is a demonstration that tDiary works on sinatra framework.
 
 1. Clone this repository from github.com.
 
-        git@github.com:machu/tdiary-on-sinatra.git
+        git clone git@github.com:machu/tdiary-on-sinatra.git
 
 2. Get sinatra and tdiary by bundle command.
 
