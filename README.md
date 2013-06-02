@@ -19,3 +19,4 @@ This is a demonstration that tDiary works on sinatra framework.
 
 4. Connect to http://localhost:4567/ and you can show your tDiary.
 
+Note. The password is { user: 'user', password: 'password' } in .htpasswd file.
