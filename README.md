@@ -7,15 +7,15 @@ This is a demonstration that tDiary works on sinatra framework.
 
 1. Clone this repository from github.com.
 
-     git@github.com:machu/tdiary-on-sinatra.git
+        git@github.com:machu/tdiary-on-sinatra.git
 
 2. Get sinatra and tdiary by bundle command.
 
-     bundle install
+        bundle install
 
 3. Start the server.
 
-     bundle exec ruby tdiary_on_sinatra.rb
+        bundle exec ruby tdiary_on_sinatra.rb
 
 4. Connect to http://localhost:4567/ and you can show your tDiary.
 
