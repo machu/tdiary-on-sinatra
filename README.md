@@ -1,4 +1,4 @@
-tdiary-on-sinatra
+tDiary on Sinatra
 =================
 
 This is a demonstration that tDiary works on sinatra framework.
